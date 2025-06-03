@@ -2,6 +2,8 @@
 麻将哈希加密算法
 
 
+
+
 using System.Security.Cryptography;
 using System.Text;
 
